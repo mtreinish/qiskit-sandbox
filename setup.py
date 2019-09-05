@@ -25,7 +25,7 @@ requirements = [
 
 setup(
     name="qiskit",
-    version="0.12.1",
+    version="0.12.2",
     description="Software for developing quantum computing programs",
     long_description="Qiskit is a software development kit for writing "
                      "quantum computing experiments, programs, and "
